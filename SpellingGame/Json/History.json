@@ -1,0 +1,1004 @@
+{
+  "worlds": [
+    {
+      "word": "chronicle",
+      "score": 80836,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "story",
+      "score": 77519,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "account",
+      "score": 73512,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "annals",
+      "score": 70502,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "lore",
+      "score": 69552,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "record",
+      "score": 65637,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "heritage",
+      "score": 64451,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ever",
+      "score": 64364,
+      "tags": [ "adv" ]
+    },
+    {
+      "word": "historical",
+      "score": 64362,
+      "tags": [ "adj", "n" ]
+    },
+    {
+      "word": "tradition",
+      "score": 64068,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "historiography",
+      "score": 63892,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "historic",
+      "score": 63441,
+      "tags": [ "adj", "n" ]
+    },
+    {
+      "word": "historian",
+      "score": 63401,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "chronology",
+      "score": 63167,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "legacy",
+      "score": 62862,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "records",
+      "score": 62659,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "historically",
+      "score": 62466,
+      "tags": [ "adv" ]
+    },
+    {
+      "word": "antecedent",
+      "score": 61480,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "past",
+      "score": 60852,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "time",
+      "score": 60833,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "evolution",
+      "score": 60648,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "experience",
+      "score": 60639,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "saga",
+      "score": 60334,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "genesis",
+      "score": 60270,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "memory",
+      "score": 60107,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "stories",
+      "score": 60036,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tale",
+      "score": 59962,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pedigree",
+      "score": 59695,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "anecdote",
+      "score": 59688,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "landmark",
+      "score": 59614,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "background",
+      "score": 59526,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "context",
+      "score": 59318,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "narrative",
+      "score": 59035,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "existence",
+      "score": 58649,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "life",
+      "score": 58473,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "storytelling",
+      "score": 58429,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "thing",
+      "score": 58426,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "posterity",
+      "score": 58382,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "course",
+      "score": 58295,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "dates",
+      "score": 58173,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "journey",
+      "score": 57965,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cycle",
+      "score": 57916,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "reputation",
+      "score": 57850,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "relationship",
+      "score": 57463,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "about",
+      "score": 57345,
+      "tags": [ "adv" ]
+    },
+    {
+      "word": "stuff",
+      "score": 57090,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "storyline",
+      "score": 57061,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "habit",
+      "score": 57020,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "backgrounds",
+      "score": 56987,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "trajectory",
+      "score": 56651,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "whole",
+      "score": 56465,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "joke",
+      "score": 56249,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "profile",
+      "score": 56141,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "path",
+      "score": 56094,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "spent",
+      "score": 55935,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "mess",
+      "score": 55703,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "yarn",
+      "score": 55701,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "historia",
+      "score": 55673,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "date",
+      "score": 55483,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "chronic",
+      "score": 55245,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "backdrop",
+      "score": 55238,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "episode",
+      "score": 55222,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "deal",
+      "score": 55193,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "affair",
+      "score": 55141,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "romance",
+      "score": 54856,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "over",
+      "score": 54654,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "round",
+      "score": 54625,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "experiment",
+      "score": 54475,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "news",
+      "score": 54355,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ago",
+      "score": 54317,
+      "tags": [ "adv" ]
+    },
+    {
+      "word": "histoire",
+      "score": 54293,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "shi",
+      "score": 54270,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "matter",
+      "score": 54166,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "chestnut",
+      "score": 53997,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "anal",
+      "score": 53951,
+      "tags": [ "adj", "prop" ]
+    },
+    {
+      "word": "plot",
+      "score": 53646,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "business",
+      "score": 53558,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "symptomatology",
+      "score": 53301,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "jamboree",
+      "score": 53050,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "fuss",
+      "score": 52841,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "file",
+      "score": 52760,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "locker",
+      "score": 51441,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "histogram",
+      "score": 51279,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "organic",
+      "score": 51138,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "biological",
+      "score": 51073,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "all-time",
+      "score": 50923,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "geschichte",
+      "score": 50923,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "historique",
+      "score": 50923,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rach",
+      "score": 50922,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "shih",
+      "score": 50922,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "prehistory",
+      "score": 50920,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "folklore",
+      "score": 50919,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "century",
+      "score": 50914,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "literature",
+      "score": 50913,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "culture",
+      "score": 50912,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "herstory",
+      "score": 50911,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "archeology",
+      "score": 50910,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ancient",
+      "score": 50909,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "antiquity",
+      "score": 50908,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "civilization",
+      "score": 50907,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "protohistory",
+      "score": 50906,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "art historian",
+      "score": 50905,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "historicalness",
+      "score": 50904,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "horography",
+      "score": 50902,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sagas",
+      "score": 50901,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "genealogize",
+      "score": 50900,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "semitist",
+      "score": 50899,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "centuriator",
+      "score": 50898,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "boston tea party",
+      "score": 50896,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "legacies",
+      "score": 50895,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "dynasties",
+      "score": 50894,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "traditions",
+      "score": 50893,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "eras",
+      "score": 50892,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cliometrics",
+      "score": 50891,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "epoch",
+      "score": 50889,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "triumphs",
+      "score": 50888,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "historic period",
+      "score": 50887,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "mediaevalist",
+      "score": 50886,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "footnote",
+      "score": 50885,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "beginnings",
+      "score": 50884,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "nation",
+      "score": 50883,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mythology",
+      "score": 50882,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cormogeny",
+      "score": 50881,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "lineage",
+      "score": 50880,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "futility",
+      "score": 50879,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "humanistic discipline",
+      "score": 50878,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "logographer",
+      "score": 50877,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "genealogies",
+      "score": 50876,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "palaeontography",
+      "score": 50875,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "stromatology",
+      "score": 50874,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "onomatologist",
+      "score": 50873,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "origins",
+      "score": 50872,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "modern",
+      "score": 50871,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "medical history",
+      "score": 50870,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "hexahemeron",
+      "score": 50869,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "glottochronology",
+      "score": 50868,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "career",
+      "score": 50867,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "geography",
+      "score": 50866,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "chapter",
+      "score": 50864,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "historial",
+      "score": 50863,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "zaniest",
+      "score": 50862,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "hagiology",
+      "score": 50861,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ethnology",
+      "score": 50860,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "accomplishments",
+      "score": 50859,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mythologue",
+      "score": 50858,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "firsts",
+      "score": 50857,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "punic wars",
+      "score": 50856,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "ascendence",
+      "score": 50855,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ironies",
+      "score": 50854,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "headiest",
+      "score": 50853,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "roots",
+      "score": 50852,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paleolithic age",
+      "score": 50851,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "postbellum",
+      "score": 50850,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "neocosmic",
+      "score": 50849,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "late latin",
+      "score": 50848,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pasts",
+      "score": 50847,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "books",
+      "score": 50846,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ancienty",
+      "score": 50845,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "martyrology",
+      "score": 50844,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "artifacts",
+      "score": 50843,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scopes trial",
+      "score": 50842,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ethnographical",
+      "score": 50841,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "literary study",
+      "score": 50840,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "procopius",
+      "score": 50839,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "secle",
+      "score": 50838,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "continuities",
+      "score": 50837,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "enactor",
+      "score": 50836,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "centry",
+      "score": 50835,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ancientry",
+      "score": 50834,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "iconography",
+      "score": 50833,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "middle latin",
+      "score": 50832,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "horologiography",
+      "score": 50831,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "renascence",
+      "score": 50830,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "chronicler",
+      "score": 50829,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "moniment",
+      "score": 50828,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "byzantine empire",
+      "score": 50827,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "ancestry",
+      "score": 50826,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "one",
+      "score": 50825,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "protestant reformation",
+      "score": 50824,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "foodways",
+      "score": 50823,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "lesson",
+      "score": 50822,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "geological era",
+      "score": 50821,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "folklife",
+      "score": 50820,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "vetust",
+      "score": 50819,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "comebacks",
+      "score": 50817,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "conquests",
+      "score": 50816,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "truism",
+      "score": 50814,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "jurisprudence",
+      "score": 50813,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "centennial",
+      "score": 50812,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "emile durkheim",
+      "score": 50811,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "etymology",
+      "score": 50810,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cultural",
+      "score": 50809,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "experiences",
+      "score": 50808,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paleoecology",
+      "score": 50807,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rivalries",
+      "score": 50806,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "fables",
+      "score": 50805,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "uniformism",
+      "score": 50804,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "edmund husserl",
+      "score": 50803,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "millenary",
+      "score": 50802,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "jeannette rankin",
+      "score": 50801,
+      "tags": [ "n", "prop" ]
+    }
+  ]
+}

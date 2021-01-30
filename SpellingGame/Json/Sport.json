@@ -1,0 +1,1004 @@
+{
+  "worlds": [
+    {
+      "word": "athletics",
+      "score": 91484,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "sportsman",
+      "score": 90500,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "sportswoman",
+      "score": 86328,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "fun",
+      "score": 82082,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "play",
+      "score": 80735,
+      "tags": [ "syn", "n", "v" ]
+    },
+    {
+      "word": "disport",
+      "score": 78386,
+      "tags": [ "syn", "v" ]
+    },
+    {
+      "word": "lark",
+      "score": 78182,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "boast",
+      "score": 76792,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "nonresident",
+      "score": 76481,
+      "tags": [ "syn", "adj" ]
+    },
+    {
+      "word": "cavort",
+      "score": 76398,
+      "tags": [ "syn", "v" ]
+    },
+    {
+      "word": "rollick",
+      "score": 76291,
+      "tags": [ "syn", "v" ]
+    },
+    {
+      "word": "mutation",
+      "score": 76238,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "frolic",
+      "score": 75977,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "skylark",
+      "score": 75839,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "romp",
+      "score": 75506,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "gambol",
+      "score": 75432,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "mutant",
+      "score": 75209,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "feature",
+      "score": 74751,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "lark about",
+      "score": 73410,
+      "tags": [ "syn", "v" ]
+    },
+    {
+      "word": "run around",
+      "score": 73410,
+      "tags": [ "syn", "v" ]
+    },
+    {
+      "word": "frisk",
+      "score": 73409,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "racing",
+      "score": 69469,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "athlete",
+      "score": 67904,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "athletes",
+      "score": 67793,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportsmen",
+      "score": 66953,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "football",
+      "score": 66897,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "multisport",
+      "score": 66775,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "hockey",
+      "score": 66771,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "soccer",
+      "score": 66418,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportsmanship",
+      "score": 66186,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "athletic",
+      "score": 65828,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "badminton",
+      "score": 65446,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "recreational",
+      "score": 64555,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "coaches",
+      "score": 64119,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportswomen",
+      "score": 63997,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "taekwondo",
+      "score": 63461,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "doping",
+      "score": 63371,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "bobsleigh",
+      "score": 63022,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "olympic",
+      "score": 62431,
+      "tags": [ "adj", "n", "prop" ]
+    },
+    {
+      "word": "skating",
+      "score": 62272,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "player",
+      "score": 62116,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportive",
+      "score": 62057,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "sportfishing",
+      "score": 61968,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "curling",
+      "score": 61713,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "game",
+      "score": 61575,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "discipline",
+      "score": 61412,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportswear",
+      "score": 61367,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sporty",
+      "score": 61355,
+      "tags": [ "adj", "n" ]
+    },
+    {
+      "word": "gym",
+      "score": 61288,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "champion",
+      "score": 61005,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "jock",
+      "score": 60860,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "games",
+      "score": 60644,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "enthusiast",
+      "score": 60582,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "adventure",
+      "score": 60244,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "leisure",
+      "score": 60164,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "champ",
+      "score": 59705,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "playing",
+      "score": 59140,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "pleasure",
+      "score": 58086,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "gambler",
+      "score": 57909,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "physical",
+      "score": 57873,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "wear",
+      "score": 57358,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ballgame",
+      "score": 57180,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "movement",
+      "score": 56687,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "treadmill",
+      "score": 56658,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "exercise",
+      "score": 56434,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mockery",
+      "score": 55934,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "activity",
+      "score": 55879,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mate",
+      "score": 55378,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "boy",
+      "score": 55143,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "campaign",
+      "score": 54895,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "buddy",
+      "score": 54722,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "movements",
+      "score": 54373,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "son",
+      "score": 54346,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "jeux",
+      "score": 53873,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "suv",
+      "score": 53559,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "yuk",
+      "score": 53159,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "diversion",
+      "score": 52785,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "hong",
+      "score": 52703,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "pal",
+      "score": 51988,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "willy",
+      "score": 51527,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "kang",
+      "score": 51094,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportif",
+      "score": 51094,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportspeople",
+      "score": 51094,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "suvs",
+      "score": 51094,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tennis",
+      "score": 51087,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "spectator sport",
+      "score": 51086,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportsperson",
+      "score": 51085,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "basketball",
+      "score": 51084,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rugby",
+      "score": 51083,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "baseball",
+      "score": 51082,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "gymnastics",
+      "score": 51081,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "triathlon",
+      "score": 51078,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "korfball",
+      "score": 51077,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "golf",
+      "score": 51075,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "lacrosse",
+      "score": 51074,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "netball",
+      "score": 51073,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "outdoor sport",
+      "score": 51072,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "team sport",
+      "score": 51071,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "professional football",
+      "score": 51070,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sportling",
+      "score": 51069,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "regulation time",
+      "score": 51068,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "contact sport",
+      "score": 51067,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "professional basketball",
+      "score": 51066,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "athletic game",
+      "score": 51064,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "lusorious",
+      "score": 51063,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "outdoor game",
+      "score": 51062,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "day game",
+      "score": 51061,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "boxing",
+      "score": 51060,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "sportless",
+      "score": 51059,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "equestrianism",
+      "score": 51058,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "motorsports",
+      "score": 51057,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pastime",
+      "score": 51056,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cycling",
+      "score": 51055,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "court game",
+      "score": 51054,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "snowboarding",
+      "score": 51053,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mountain biking",
+      "score": 51052,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "motorcycling",
+      "score": 51051,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "field game",
+      "score": 51050,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "night game",
+      "score": 51049,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "canadian football",
+      "score": 51048,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "association football",
+      "score": 51047,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "real tennis",
+      "score": 51046,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "interscholastic",
+      "score": 51045,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "motocross",
+      "score": 51044,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "horseracing",
+      "score": 51043,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "royal tennis",
+      "score": 51042,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "leagues",
+      "score": 51041,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "luging",
+      "score": 51040,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "racers",
+      "score": 51039,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "horse racing",
+      "score": 51038,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "governing body",
+      "score": 51037,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tournaments",
+      "score": 51036,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "marathoning",
+      "score": 51035,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "alpine skiing",
+      "score": 51034,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "karting",
+      "score": 51033,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "hydroplane racing",
+      "score": 51032,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "skateboarding",
+      "score": 51031,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "basketball equipment",
+      "score": 51030,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cricket",
+      "score": 51029,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "longboarding",
+      "score": 51028,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "competitions",
+      "score": 51027,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "intercollegiate",
+      "score": 51026,
+      "tags": [ "n", "adj", "prop" ]
+    },
+    {
+      "word": "rowing",
+      "score": 51025,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "racewalking",
+      "score": 51023,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "spectatorship",
+      "score": 51022,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "nordic skiing",
+      "score": 51021,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "paralympic",
+      "score": 51020,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "pancratical",
+      "score": 51019,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "judo",
+      "score": 51018,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "waterpolo",
+      "score": 51017,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "figure skating",
+      "score": 51016,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pleasure boat",
+      "score": 51015,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "equestrian sport",
+      "score": 51014,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "thoroughbred racing",
+      "score": 51013,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "skiing",
+      "score": 51012,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "prizefighting",
+      "score": 51011,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "championships",
+      "score": 51010,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "wrestling",
+      "score": 51009,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "sumo",
+      "score": 51008,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "forehand drive",
+      "score": 51007,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "touch football",
+      "score": 51006,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "bloodsport",
+      "score": 51005,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "volleyball",
+      "score": 51004,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "roller derby",
+      "score": 51003,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "olympian",
+      "score": 51002,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "bobsledding",
+      "score": 51001,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "basketball court",
+      "score": 51000,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tourn",
+      "score": 50999,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "skijoring",
+      "score": 50998,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "celery salt",
+      "score": 50997,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "fosbury flop",
+      "score": 50996,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "gaelic football",
+      "score": 50994,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "bullfighting",
+      "score": 50993,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "riflery",
+      "score": 50992,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "weightlifting",
+      "score": 50991,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "boxers",
+      "score": 50990,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "subculture",
+      "score": 50989,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "crosscountry",
+      "score": 50988,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "alpinism",
+      "score": 50987,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mma",
+      "score": 50986,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "grand prix",
+      "score": 50985,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "recreation",
+      "score": 50984,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "basketball hoop",
+      "score": 50983,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ultimate frisbee",
+      "score": 50982,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pole vaulting",
+      "score": 50981,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "windsurfing",
+      "score": 50980,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pancratium",
+      "score": 50979,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "equestrian",
+      "score": 50978,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "pentathlete",
+      "score": 50977,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "amateur",
+      "score": 50976,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "water polo",
+      "score": 50975,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "squash rackets",
+      "score": 50974,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rallycross",
+      "score": 50973,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paralympics",
+      "score": 50972,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "extracurricular activity",
+      "score": 50971,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "duckpin",
+      "score": 50970,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ballroom dancing",
+      "score": 50969,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "swimming",
+      "score": 50968,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "shinty",
+      "score": 50967,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "racquetball",
+      "score": 50966,
+      "tags": [ "n" ]
+    }
+  ]
+}

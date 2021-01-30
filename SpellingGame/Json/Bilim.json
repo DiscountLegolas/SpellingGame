@@ -1,0 +1,1004 @@
+{
+  "worlds": [
+    {
+      "word": "skill",
+      "score": 78550,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "scientific discipline",
+      "score": 73791,
+      "tags": [ "syn", "n", "prop" ]
+    },
+    {
+      "word": "scientific knowledge",
+      "score": 73791,
+      "tags": [ "syn", "n", "prop" ]
+    },
+    {
+      "word": "biology",
+      "score": 73713,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scientific",
+      "score": 72822,
+      "tags": [ "adj", "n" ]
+    },
+    {
+      "word": "humanities",
+      "score": 70461,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "astronomy",
+      "score": 70215,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scientist",
+      "score": 69032,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scientists",
+      "score": 67444,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "economics",
+      "score": 67176,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "research",
+      "score": 67121,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "academic",
+      "score": 66235,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "education",
+      "score": 66125,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "technology",
+      "score": 65473,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scientifically",
+      "score": 64510,
+      "tags": [ "adv" ]
+    },
+    {
+      "word": "studies",
+      "score": 64112,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "lab",
+      "score": 63715,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "technological",
+      "score": 63272,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "forensic",
+      "score": 62669,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "scholarly",
+      "score": 62654,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "disciplines",
+      "score": 61995,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "veda",
+      "score": 60916,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "learning",
+      "score": 60553,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "knowledge",
+      "score": 60319,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "lesson",
+      "score": 57906,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scholarship",
+      "score": 57569,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "recherche",
+      "score": 56148,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "discipline",
+      "score": 55646,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ved",
+      "score": 54395,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "guise",
+      "score": 54145,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "branch",
+      "score": 53313,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "search",
+      "score": 53281,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "alam",
+      "score": 52324,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "alom",
+      "score": 51159,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ciencia",
+      "score": 51159,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "goe",
+      "score": 51159,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scientifique",
+      "score": 51159,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "swp",
+      "score": 51159,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "wissenschaft",
+      "score": 51159,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "flag",
+      "score": 51158,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tricolor",
+      "score": 51158,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mathematics",
+      "score": 51156,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biochemistry",
+      "score": 51153,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biomedical",
+      "score": 51152,
+      "tags": [ "n", "adj", "prop" ]
+    },
+    {
+      "word": "cultural anthropology",
+      "score": 51151,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "physics",
+      "score": 51150,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "natural philosophy",
+      "score": 51148,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "library science",
+      "score": 51147,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "hexicology",
+      "score": 51144,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "neuroscience",
+      "score": 51143,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "unscience",
+      "score": 51142,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "space biology",
+      "score": 51141,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "dianoialogy",
+      "score": 51140,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "child psychology",
+      "score": 51139,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "islamic law",
+      "score": 51138,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "comparative anatomy",
+      "score": 51137,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "anthropology",
+      "score": 51136,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "actinochemistry",
+      "score": 51135,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "field of study",
+      "score": 51134,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "math",
+      "score": 51133,
+      "tags": [ "n", "adv" ]
+    },
+    {
+      "word": "oceanography",
+      "score": 51132,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "limnology",
+      "score": 51131,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "climatology",
+      "score": 51130,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "astrophysics",
+      "score": 51129,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "anthropobiology",
+      "score": 51128,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "botany",
+      "score": 51127,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "bioclimatology",
+      "score": 51126,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "zoology",
+      "score": 51125,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "meteorology",
+      "score": 51124,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "molecular biology",
+      "score": 51123,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paleontology",
+      "score": 51122,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "wave theory",
+      "score": 51121,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "natural scientist",
+      "score": 51120,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "museology",
+      "score": 51119,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "information science",
+      "score": 51118,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "environmental science",
+      "score": 51117,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "information theory",
+      "score": 51116,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "developmental psychology",
+      "score": 51115,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biometeorology",
+      "score": 51114,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "magnetician",
+      "score": 51113,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "archeology",
+      "score": 51112,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "physiology",
+      "score": 51111,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "primatology",
+      "score": 51110,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "microbiology",
+      "score": 51109,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "selenology",
+      "score": 51108,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ollamh",
+      "score": 51107,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biomedicine",
+      "score": 51106,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paleoclimatology",
+      "score": 51105,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biolinguistics",
+      "score": 51104,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ecology",
+      "score": 51103,
+      "tags": [ "n", "adv" ]
+    },
+    {
+      "word": "astrobiology",
+      "score": 51102,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "neuropharmacology",
+      "score": 51101,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "significs",
+      "score": 51100,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cognitive neuroscience",
+      "score": 51099,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scientific method",
+      "score": 51098,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "psychology",
+      "score": 51097,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "robotics",
+      "score": 51095,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "agrology",
+      "score": 51094,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "nanotechnology",
+      "score": 51092,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "psychobiology",
+      "score": 51091,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ufology",
+      "score": 51090,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mesology",
+      "score": 51089,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "bioengineering",
+      "score": 51088,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "botanology",
+      "score": 51087,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "physic",
+      "score": 51086,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "hypnology",
+      "score": 51085,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biotechnology",
+      "score": 51084,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "geology",
+      "score": 51083,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "parasitology",
+      "score": 51082,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "encephalology",
+      "score": 51081,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rocketry",
+      "score": 51080,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "eudaemonics",
+      "score": 51079,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "geosciences",
+      "score": 51078,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "thalassography",
+      "score": 51077,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "olympiads",
+      "score": 51076,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biomimetics",
+      "score": 51075,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "comtism",
+      "score": 51074,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "physical science",
+      "score": 51073,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "genetics",
+      "score": 51072,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "lysenkoism",
+      "score": 51071,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "iatromathematics",
+      "score": 51070,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "psychophysiology",
+      "score": 51069,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paleoecology",
+      "score": 51068,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "gottfried wilhelm leibniz",
+      "score": 51067,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "bioscience",
+      "score": 51066,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "physicology",
+      "score": 51065,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "linguistics",
+      "score": 51064,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "stoichiology",
+      "score": 51063,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scientific theory",
+      "score": 51062,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "bachelor of science",
+      "score": 51061,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "seismology",
+      "score": 51060,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "glaciology",
+      "score": 51059,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "atmology",
+      "score": 51058,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "computer scientist",
+      "score": 51057,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tectology",
+      "score": 51056,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "exobiology",
+      "score": 51055,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "genomics",
+      "score": 51054,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biomathematics",
+      "score": 51053,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "engineering",
+      "score": 51052,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sociology",
+      "score": 51051,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "astrometeorology",
+      "score": 51050,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "informatics",
+      "score": 51049,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "geoscience",
+      "score": 51048,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cognitive psychology",
+      "score": 51047,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "professor",
+      "score": 51045,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "master of science",
+      "score": 51044,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "quantum physics",
+      "score": 51043,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "areology",
+      "score": 51042,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "analytical chemistry",
+      "score": 51041,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "catastrophism",
+      "score": 51040,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "theory of evolution",
+      "score": 51039,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "teratology",
+      "score": 51038,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "zoochemistry",
+      "score": 51037,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "particle physics",
+      "score": 51035,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "radiobiology",
+      "score": 51034,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "differential calculus",
+      "score": 51033,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sociolinguistics",
+      "score": 51032,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "psycholinguistics",
+      "score": 51031,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "aeronautics",
+      "score": 51030,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "palaeontology",
+      "score": 51029,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "geoponics",
+      "score": 51028,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paleobiology",
+      "score": 51027,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "palaetiology",
+      "score": 51026,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cosmology",
+      "score": 51025,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "criminalistics",
+      "score": 51024,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "academic department",
+      "score": 51023,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "sci",
+      "score": 51022,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "phrenics",
+      "score": 51021,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "astrognosy",
+      "score": 51020,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pharmacognosy",
+      "score": 51019,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "magnetist",
+      "score": 51018,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "veterinary medicine",
+      "score": 51017,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "inorganic chemistry",
+      "score": 51016,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "grantsmanship",
+      "score": 51015,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "agrobiology",
+      "score": 51014,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "diagraphics",
+      "score": 51013,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "physiological psychology",
+      "score": 51012,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "precalculus",
+      "score": 51011,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "gestalt psychology",
+      "score": 51010,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "scientism",
+      "score": 51009,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "biophysics",
+      "score": 51008,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ichthyology",
+      "score": 51007,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "enigmatology",
+      "score": 51006,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "celestial mechanics",
+      "score": 51005,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "bioecology",
+      "score": 51004,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "curriculum",
+      "score": 51003,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "agriculture",
+      "score": 51002,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "iatrochemistry",
+      "score": 51001,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mammalogy",
+      "score": 51000,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "medical science",
+      "score": 50999,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "geogony",
+      "score": 50998,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "astrolithology",
+      "score": 50997,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mechanical engineering",
+      "score": 50996,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "archaeo",
+      "score": 50995,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "parapsychological",
+      "score": 50994,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "chreotechnics",
+      "score": 50993,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "industrial engineer",
+      "score": 50992,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "law of gravitation",
+      "score": 50991,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cell theory",
+      "score": 50990,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "glottology",
+      "score": 50989,
+      "tags": [ "n" ]
+    }
+  ]
+}

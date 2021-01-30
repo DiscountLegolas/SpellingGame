@@ -1,0 +1,1004 @@
+{
+  "worlds": [
+    {
+      "word": "artwork",
+      "score": 91096,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "artistry",
+      "score": 86312,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "fine art",
+      "score": 82088,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "graphics",
+      "score": 79551,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "artistic creation",
+      "score": 77117,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "prowess",
+      "score": 76855,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "artistic production",
+      "score": 71088,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "nontextual matter",
+      "score": 71088,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "superior skill",
+      "score": 71088,
+      "tags": [ "syn", "n" ]
+    },
+    {
+      "word": "artist",
+      "score": 69331,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "painting",
+      "score": 68492,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "artists",
+      "score": 67512,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "gallery",
+      "score": 66905,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "museum",
+      "score": 66730,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "nonrepresentational",
+      "score": 66565,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "artistic",
+      "score": 66476,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "canvases",
+      "score": 66140,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "calligraphy",
+      "score": 65335,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "drawings",
+      "score": 64692,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "craftsmanship",
+      "score": 63980,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "works",
+      "score": 63496,
+      "tags": [ "n", "v" ]
+    },
+    {
+      "word": "aesthetic",
+      "score": 63001,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "imagery",
+      "score": 62457,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cultural",
+      "score": 62352,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "craft",
+      "score": 62102,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "design",
+      "score": 61885,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "technology",
+      "score": 60594,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "arte",
+      "score": 60582,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "images",
+      "score": 60218,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "mastery",
+      "score": 60162,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "techno",
+      "score": 60057,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "flair",
+      "score": 60051,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "artes",
+      "score": 59977,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "invention",
+      "score": 59570,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "imaging",
+      "score": 58892,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "nature",
+      "score": 58892,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "technique",
+      "score": 58859,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paint",
+      "score": 58576,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pictures",
+      "score": 58388,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ingenuity",
+      "score": 58376,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tattoo",
+      "score": 58225,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "image",
+      "score": 58200,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "artistes",
+      "score": 58192,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "style",
+      "score": 57930,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "expertise",
+      "score": 57799,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "advanced",
+      "score": 57780,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "drawing",
+      "score": 57749,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "fine",
+      "score": 57717,
+      "tags": [ "adj", "n" ]
+    },
+    {
+      "word": "skill",
+      "score": 57708,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "kind",
+      "score": 57529,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pointe",
+      "score": 57464,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "talent",
+      "score": 57372,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "knack",
+      "score": 56967,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "knowledge",
+      "score": 56964,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rhythmic",
+      "score": 56926,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "functional",
+      "score": 56898,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "therapy",
+      "score": 56599,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "professional",
+      "score": 56391,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "picture",
+      "score": 56279,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "form",
+      "score": 56035,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rta",
+      "score": 55999,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "method",
+      "score": 55974,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sort",
+      "score": 55810,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cleverness",
+      "score": 55710,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "inc",
+      "score": 55556,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "arthur",
+      "score": 55319,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "forefront",
+      "score": 55233,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "edge",
+      "score": 55182,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "artie",
+      "score": 55032,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "item",
+      "score": 54995,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "way",
+      "score": 54735,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "technical",
+      "score": 54567,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "field",
+      "score": 54393,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "gear",
+      "score": 54007,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "type",
+      "score": 53871,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sections",
+      "score": 53754,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "continued",
+      "score": 53624,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "gnr",
+      "score": 53618,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "articles",
+      "score": 53574,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "manner",
+      "score": 53514,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "article",
+      "score": 53434,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "species",
+      "score": 53423,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sect",
+      "score": 53315,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "section",
+      "score": 53273,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "wiliness",
+      "score": 53149,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tack",
+      "score": 53072,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "neg",
+      "score": 53025,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "garfunkel",
+      "score": 52761,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "tar",
+      "score": 52654,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "peak",
+      "score": 52563,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "starts",
+      "score": 52497,
+      "tags": [ "v" ]
+    },
+    {
+      "word": "vol",
+      "score": 52422,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "yuk",
+      "score": 52413,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tsa",
+      "score": 52329,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "para",
+      "score": 52084,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "tip",
+      "score": 51841,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "substantive",
+      "score": 51814,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "clause",
+      "score": 51402,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rules",
+      "score": 51312,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "haart",
+      "score": 51281,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "carriageway",
+      "score": 51209,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "aart",
+      "score": 51079,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "anti-retroviral",
+      "score": 51079,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "antiretroviral",
+      "score": 51079,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "artistique",
+      "score": 51079,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "artworks",
+      "score": 51079,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "beaux-arts",
+      "score": 51079,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cfn",
+      "score": 51079,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "clipart",
+      "score": 51079,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "crc",
+      "score": 51079,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "cutting-edge",
+      "score": 51079,
+      "tags": [ "adj" ]
+    },
+    {
+      "word": "kunst",
+      "score": 51079,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "leading-edge",
+      "score": 51079,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "arv",
+      "score": 51078,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "reg",
+      "score": 51078,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rule",
+      "score": 51078,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sec",
+      "score": 51078,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "printmaking",
+      "score": 51076,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sculpture",
+      "score": 51075,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "painter",
+      "score": 51074,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "photography",
+      "score": 51073,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "abstract expressionism",
+      "score": 51071,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "contemporary",
+      "score": 51069,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "pottery",
+      "score": 51068,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "impressionism",
+      "score": 51067,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "sculptor",
+      "score": 51066,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "commercial art",
+      "score": 51064,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "visual arts",
+      "score": 51063,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "plastic art",
+      "score": 51062,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "art gallery",
+      "score": 51061,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "artly",
+      "score": 51060,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paintings",
+      "score": 51059,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "neoimpressionism",
+      "score": 51058,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "art paper",
+      "score": 51057,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "portraiture",
+      "score": 51056,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ceramics",
+      "score": 51055,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "painture",
+      "score": 51054,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "art union",
+      "score": 51053,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "postimpressionist",
+      "score": 51052,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "art student",
+      "score": 51051,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "masterpieces",
+      "score": 51050,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "abstract art",
+      "score": 51049,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "conceptualism",
+      "score": 51048,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ceroplastics",
+      "score": 51047,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "museology",
+      "score": 51046,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "postimpressionism",
+      "score": 51045,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ceroplastic",
+      "score": 51044,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "galleries",
+      "score": 51043,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "avant garde",
+      "score": 51042,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "draughtsmanship",
+      "score": 51041,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "museum piece",
+      "score": 51040,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "conceptualist",
+      "score": 51039,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "kinetic art",
+      "score": 51038,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "glasswork",
+      "score": 51037,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "aerography",
+      "score": 51036,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "expressionists",
+      "score": 51035,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cartooning",
+      "score": 51034,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "surrealist",
+      "score": 51033,
+      "tags": [ "n", "adj" ]
+    },
+    {
+      "word": "antiques",
+      "score": 51032,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "dadaism",
+      "score": 51031,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "glassblowing",
+      "score": 51030,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "abstractionist",
+      "score": 51029,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "watercolors",
+      "score": 51028,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "performing arts",
+      "score": 51027,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "classicalist",
+      "score": 51026,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "collages",
+      "score": 51025,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "serigraphy",
+      "score": 51024,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "cubism",
+      "score": 51023,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "artistic movement",
+      "score": 51022,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "exhibitions",
+      "score": 51021,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "taxidermy",
+      "score": 51020,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "paleotechnic",
+      "score": 51019,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "enameling",
+      "score": 51018,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "watercolourist",
+      "score": 51017,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pyrographer",
+      "score": 51016,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "glyptography",
+      "score": 51015,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "maiolica",
+      "score": 51014,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "fauvism",
+      "score": 51013,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "aquarellist",
+      "score": 51012,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "poetry",
+      "score": 51011,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "art dealer",
+      "score": 51010,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "stitchery",
+      "score": 51009,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "pyrography",
+      "score": 51008,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "rembrandt van rijn",
+      "score": 51007,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "pictorialism",
+      "score": 51006,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "vasarely",
+      "score": 51005,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "en plein air",
+      "score": 51003,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "alla prima",
+      "score": 51002,
+      "tags": [ "n", "prop" ]
+    },
+    {
+      "word": "creative person",
+      "score": 51001,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "illusionism",
+      "score": 51000,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "life class",
+      "score": 50999,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "connoisseurship",
+      "score": 50998,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "silverwork",
+      "score": 50997,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "ceramist",
+      "score": 50996,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "glassmaking",
+      "score": 50995,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "horology",
+      "score": 50994,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "nudes",
+      "score": 50993,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "abstract expressionist",
+      "score": 50991,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "creative activity",
+      "score": 50990,
+      "tags": [ "n" ]
+    },
+    {
+      "word": "modernism",
+      "score": 50989,
+      "tags": [ "n" ]
+    }
+  ]
+}
